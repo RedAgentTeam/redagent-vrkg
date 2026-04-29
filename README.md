@@ -174,3 +174,4 @@ MIT License — use freely, contribute openly.
 **Maintainer**: Red Agent Team  
 **Contact**: yesimagineoss (at) gmail.com  
 **Repo**: https://github.com/yesimagine-oss/redagent-vrkg
+
