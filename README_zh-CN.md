@@ -2,6 +2,8 @@
 
 > **说明（2026-10）：** 本仓库中的 Gene/Capsule 格式现已迁移到上游 [GEP 协议](https://github.com/EvoMap/gep-sdk-js)。本仓库作为 VRKG 最初的设计记录保留。
 
+> **论文：** [VRKG: A Verification-Anchored Knowledge Asset System for AI Agents](https://zenodo.org/records/19879022)（Zenodo，2026-04-29，DOI [10.5281/zenodo.19879022](https://doi.org/10.5281/zenodo.19879022)）
+
 **Verifiable Retrieval Knowledge Graph** — 面向 AI Agent 的人类自治理、可验证锚定知识资产系统。
 
 > 当 AI Agent 能够验证、复用、更新自身知识库而不产生重复 LLM 调用时，智能成为一种**公共资源**——而非消耗品。
@@ -143,7 +145,7 @@ redagent-vrkg/
   title = {redagent-vrkg: A Verification-Anchored Knowledge Asset System for AI Agents},
   author = {Red Agent Team},
   year = {2026},
-  url = {https://github.com/yesimagine-oss/redagent-vrkg}
+  url = {https://github.com/RedAgentTeam/redagent-vrkg}
 }
 ```
 
@@ -157,4 +159,4 @@ MIT License — 自由使用，开放贡献。
 
 **维护者**：Red Agent Team  
 **联系**：yesimagineoss (at) gmail.com  
-**仓库**：https://github.com/yesimagine-oss/redagent-vrkg
+**仓库**：https://github.com/RedAgentTeam/redagent-vrkg

@@ -2,6 +2,8 @@
 
 > **Note (2026-10):** The Gene/Capsule formats described here have since been migrated to the upstream [GEP protocol](https://github.com/EvoMap/gep-sdk-js). This repository is kept as the original design record of VRKG.
 
+> **Paper:** [VRKG: A Verification-Anchored Knowledge Asset System for AI Agents](https://zenodo.org/records/19879022) (Zenodo, 2026-04-29, DOI [10.5281/zenodo.19879022](https://doi.org/10.5281/zenodo.19879022))
+
 **Verifiable Retrieval Knowledge Graph** — A human-curated, verification-anchored knowledge asset system for AI agents.
 
 > When an AI agent can verify, reuse, and update its own knowledge base without repeated LLM calls, intelligence becomes a **commons** — not a consumable.
@@ -161,7 +163,7 @@ See `REPORTS/` for published sampling reports and validation records.
   title = {redagent-vrkg: A Verification-Anchored Knowledge Asset System for AI Agents},
   author = {Red Agent Team},
   year = {2026},
-  url = {https://github.com/yesimagine-oss/redagent-vrkg}
+  url = {https://github.com/RedAgentTeam/redagent-vrkg}
 }
 ```
 
@@ -175,5 +177,5 @@ MIT License — use freely, contribute openly.
 
 **Maintainer**: Red Agent Team  
 **Contact**: yesimagine (at) gmail.com  
-**Repo**: https://github.com/yesimagine-oss/redagent-vrkg
+**Repo**: https://github.com/RedAgentTeam/redagent-vrkg
 
