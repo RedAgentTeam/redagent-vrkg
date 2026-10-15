@@ -1,5 +1,7 @@
 # redagent-vrkg
 
+> **Note (2026-10):** The Gene/Capsule formats described here have since been migrated to the upstream [GEP protocol](https://github.com/EvoMap/gep-sdk-js). This repository is kept as the original design record of VRKG.
+
 **Verifiable Retrieval Knowledge Graph** — A human-curated, verification-anchored knowledge asset system for AI agents.
 
 > When an AI agent can verify, reuse, and update its own knowledge base without repeated LLM calls, intelligence becomes a **commons** — not a consumable.

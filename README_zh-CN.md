@@ -1,5 +1,7 @@
 # redagent-vrkg
 
+> **说明（2026-10）：** 本仓库中的 Gene/Capsule 格式现已迁移到上游 [GEP 协议](https://github.com/EvoMap/gep-sdk-js)。本仓库作为 VRKG 最初的设计记录保留。
+
 **Verifiable Retrieval Knowledge Graph** — 面向 AI Agent 的人类自治理、可验证锚定知识资产系统。
 
 > 当 AI Agent 能够验证、复用、更新自身知识库而不产生重复 LLM 调用时，智能成为一种**公共资源**——而非消耗品。
